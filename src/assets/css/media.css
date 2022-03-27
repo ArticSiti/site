@@ -189,6 +189,11 @@
         padding: 5px 20px 5px 20px;
         font-size: 12px;
     }
+    #content .success{
+        left: 30%;
+        padding: 0px 20px 0px 20px;
+        font-size: 14px;
+        }
 }
 @media (max-width: 412px){
     #content .sgn-up{
@@ -210,4 +215,10 @@
         padding: 5px 10px 5px 10px;
         font-size: 9px;
     }
+    #content .success{
+        left: 35%;
+        padding: 0px 10px 0px 10px;
+        font-size: 9px;
+        }
+        
 }
