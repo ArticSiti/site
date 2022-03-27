@@ -3,3 +3,4 @@ module.exports = {
    ? '/site/'
    : '//'
 }
+Vue.config.devtools = true
