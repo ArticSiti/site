@@ -17,7 +17,6 @@ export default {
     Signup
   }
 }
-devtools = true
 </script>
 
 <style >
