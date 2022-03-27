@@ -130,6 +130,9 @@
     #content .contain{
         display: block;
     }
+    #content .form-group p{
+        font-size: 6px;
+    }
     #content .form-group{
         margin-top: 10px;
         width: 100px;
