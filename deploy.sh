@@ -22,4 +22,4 @@ git commit -m 'deploy'
 # если вы публикуете по адресу https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:articsiti.github.io/site.git main:gh-pages
 
-cd - https://articsiti.github.io/
+cd - https://articsiti.github.io/site
