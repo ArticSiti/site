@@ -1,3 +1,4 @@
+
 <template>
   <div id="content">
     <Signup />
@@ -5,6 +6,7 @@
 </template>
 
 <script>
+Vue.config.devtools = true
 import Media from './assets/css/media.css'
 import Signup from './components/Signup.vue'
 
