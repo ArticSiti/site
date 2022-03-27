@@ -380,7 +380,6 @@ export default {
     },
   },
 };
-Vue.config.devtools = true
 </script>
 
 <style>
