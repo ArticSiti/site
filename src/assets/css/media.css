@@ -1,0 +1,207 @@
+@media (max-width: 1024px){
+    #content{
+        margin: 100px;
+    }
+    #content .form-group label{
+        font-size: 14px;
+    }
+    #content .form-group input{
+        width: 200px;
+        font-size: 14px;
+    }
+    #content .form-check label{
+        font-size: 14px;
+    }
+    #content .form-group .country-group{
+        width: 200px;
+     }
+     #content .form-group #typeDoc{
+         width: 200px;
+    }
+    #content .form-group #doctors{
+        width: 200px;
+    }
+    #content .btn-contain{
+        margin-top: 20px;
+    } 
+    #content .btn-contain button{
+        padding: 10px 20px 10px 20px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 820px){
+    #content{
+        margin: 10px;
+    }
+    #content .contain{
+        min-height: 0;
+        margin: 0;
+    }
+    #content .form-message{
+        margin-top: 10px;
+        display: flex;
+        width: 200px;
+    }
+    #content .form-group-left{
+        width: 150px;
+    }
+    #content .form-group-center{
+        margin: 0px 40px 0px 40px;
+    }
+    #content .form-group label{
+        width: 150px;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+    #content .form-group input{
+        width: 150px;
+        height: 20px;
+        font-size: 14px;
+    }
+    #content .form-group .country-group{
+        width: 150px;
+     }
+     #content .form-group #typeDoc{
+        width: 150px;
+    } 
+    #content .form-group #doctors{
+        width: 150px;
+    }
+    #content .form-group #doctors option{
+        margin: 2px;
+     }
+    #content .btn-contain{
+        margin-top: 20px;
+    }
+    #content .btn-contain button{
+        padding: 5px 20px 5px 20px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 768px){
+    #content{
+        margin: 10px;
+    }
+    #content .contain{
+        min-height: 0;
+        margin: 0;
+    }
+    #content .form-message{
+        display: flex;
+        width: 100px;
+    }
+    #content .form-group-left{
+        width: 150px;
+    }
+    #content .form-group-center{
+        margin: 0px 40px 0px 40px;
+    }
+    #content .form-group label{
+        margin-top: 10px;
+        font-size: 14px;
+    }
+    #content .form-group input{
+        width: 150px;
+        height: 20px;
+        font-size: 14px;
+    }
+    #content .form-group .country-group{
+        width: 150px;
+     }
+     #content .form-group #typeDoc{
+        width: 150px;
+    }
+    #content .form-group #doctors option{
+        margin: 2px;
+     }
+      
+    #content .btn-contain button{
+        padding: 5px 15px 5px 15px;
+        font-size: 10px;
+    }
+    #content .btn-contain{
+        margin-top: 20px;
+    }
+}
+@media (max-width:540px){
+    #content .contain{
+        display: block;
+    }
+    #content .form-group{
+        margin-top: 10px;
+        width: 100px;
+    }
+    #content .form-message{
+        display: flex;
+    }
+    #content .form-check label{
+        font-size: 9px;
+    }
+    #content .form-group-left{
+        width: 100px;
+    }
+    #content .form-group-center{
+        margin: 0px 20px 0px 20px;
+    }
+    #content .form-group input{
+        width: 100px;
+        height: 10px;
+        margin-top: 5px;
+        font-size: 9px;
+    }
+    #content .form-group .country-group{
+        width: 100px;
+        height: 14px;
+        padding: 0;
+        font-size: 9px;
+     }
+     #content .form-group #doctors{
+         width: 100px;
+         padding: 2px;
+     }
+     #content .form-group #typeDoc{
+        width: 100px;
+        padding: 0;
+        height: 14px;
+        font-size: 9px;
+    }
+    #content .form-group label{
+        margin-top: 5px;
+        font-size: 9px;
+    }
+    #content .form-check-input{
+        width: 7px;
+        height: 7px;
+    }
+    #content #doctors .type-option{
+        font-size: 9px;
+    }
+    #content .btn-contain{
+        margin-top: 20px;
+    }
+    #content .btn-contain button{
+        padding: 5px 20px 5px 20px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 412px){
+    #content .sgn-up{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        justify-items: center;
+
+    }
+    #content .form-message{
+        display: flex;
+    }
+    #content .form-group-center{
+        margin: 0;
+    }
+    #content .btn-contain{
+        margin-top: 20px;
+    }
+    #content .btn-contain button{
+        padding: 5px 10px 5px 10px;
+        font-size: 9px;
+    }
+}
