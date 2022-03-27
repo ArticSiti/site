@@ -42,6 +42,9 @@
         display: flex;
         width: 200px;
     }
+    #content .form-group p{
+        font-size: 14px;
+    }
     #content .form-group-left{
         width: 150px;
     }
